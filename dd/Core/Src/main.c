@@ -42,7 +42,7 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-
+char a = 9;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
