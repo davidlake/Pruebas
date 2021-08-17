@@ -44,6 +44,7 @@
 /* USER CODE BEGIN PV */
 char a = 9;
 char b = 8;
+char c = 4;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
